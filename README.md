@@ -1,3 +1,10 @@
+# Random books generator
+
+Generates JSON object with random book data.
+
+## Installation
+```bash
+npm install
 ```
 
 ## Usage
